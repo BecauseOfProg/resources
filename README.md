@@ -11,7 +11,7 @@
 - [🌐 Websites](#-websites)
 - [📚 Libraries](#-libraries)
   - [Ruby gems](#ruby-gems)
-  - [Crystal shards](crystal-shards)
+  - [Crystal shards](#crystal-shards)
 - [Creations](#-creations)
 
 ## 🌐 Websites
