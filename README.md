@@ -28,6 +28,7 @@
 
 ### Crystal shards
 
+- [authentication](https://github.com/BecauseOfProg/authentication) : A class authentication library
 - [bitwise](https://github.com/BecauseOfProg/bitwise) : A bitwise permission library
 - **DISCONTINUED** [couchdb-orm](https://github.com/BecauseOfProg/couchdb-orm) : An simple CouchDB ORM
 - **DISCONTINUED** [rethinkdb.models](https://github.com/BecauseOfProg/rethinkdb.models) : A really simple ORM (only fetch, save and destroy) for RethinkDB

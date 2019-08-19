@@ -28,6 +28,7 @@
 
 ### Shards Crystal
 
+- [authentication](https://github.com/BecauseOfProg/authentication) : Une librairie d'authentification par classe 
 - [bitwise](https://github.com/BecauseOfProg/bitwise) : Une librairie de permissions bitwise
 - **ARRÊTÉ** [couchdb-orm](https://github.com/BecauseOfProg/couchdb-orm) : Un ORM CouchDB simple
 - **ARRÊTÉ** [rethinkdb.models](https://github.com/BecauseOfProg/rethinkdb.models) : Un ORM très simple (seulement récupérer, sauvegarder et détruire) pour RethinkDB
