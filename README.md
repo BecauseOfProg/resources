@@ -29,6 +29,7 @@
 ### Crystal shards
 
 - [bitwise](https://github.com/BecauseOfProg/bitwise) : A bitwise permission library
+- [weather](https://github.com/BecauseOfProg/crystal-weather) : Fetch the weather using the OpenWeatherMap API
 - **DISCONTINUED** [couchdb-orm](https://github.com/BecauseOfProg/couchdb-orm) : An simple CouchDB ORM
 - **DISCONTINUED** [rethinkdb.models](https://github.com/BecauseOfProg/rethinkdb.models) : A really simple ORM (only fetch, save and destroy) for RethinkDB
 
