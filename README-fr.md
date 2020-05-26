@@ -16,9 +16,12 @@
 
 ## 🌐 Sites Internet
 
-- [Blog](https://becauseofprog.fr) : Notre blog à propos de l'informatique et la programmation
-- [API](https://github.com/BecauseOfProg/api-docs) : L'endroit pour récolter de nombreuses données
-- [Youtube Podcast](https://podcast.becauseofprog.fr) : Convertissez une chaîne Youtube en un podcast téléchargeable
+- **Blog** : Notre blog à propos de l'informatique et la programmation  
+  [Site web](https://becauseofprog.fr) &mdash; [Code source](https://github.com/BecauseOfProg/blog)
+- **API** : L'endroit pour récolter de nombreuses données  
+  [Documentation](https://github.com/BecauseOfProg/api-docs) &mdash; [Définition](https://github.com/BecauseOfProg/api-definition) &mdash; [Code source](https://github.com/BecauseOfProg/api)
+- **Youtube Podcast** : Convertissez une chaîne Youtube en un podcast téléchargeable  
+  [Site web](https://podcast.becauseofprog.fr) &mdash; [Code source](https://github.com/BecauseOfProg/yt-podcast)
 
 ## 📚 Librairies
 
