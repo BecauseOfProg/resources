@@ -14,6 +14,8 @@
   - [Crystal shards](#crystal-shards)
 - [⛏ Creations](#-creations)
 
+- [👨‍💻 Our members](#-our-members)
+
 ## 🌐 Websites
 
 - **Blog** : Our blog about informatic and programming  
@@ -41,6 +43,14 @@
 ## ⛏ Creations
 
 - [Admin dashboard template](https://github.com/BecauseOfProg/admin-dashboard-template) : VueJS template for an admin dashboard
-- [arduipiano](https://github.com/BecauseOfProg/arduipiano) : A piano made with an Arduino
 - [Boîte à bois](https://github.com/BecauseOfProg/boite-a-bois) : BecauseOfProg's Discord bot
 - [Sorting algorithms](https://github.com/BecauseOfProg/sorting-algorithms) : Many sorting algorithms in various languages
+
+## 👨‍💻 Our members
+
+Every member of the BecauseOfProg own their own personnal projects that you should discover too! Check out their GitHub profiles :
+
+- [Gildas GH](https://github.com/Gildas-GH)
+- [Nicolas (Whaxion)](https://github.com/Whaxion)
+- [Noéwen (kernoeb)](https://github.com/kernoeb)
+- [Théo (exybore)](https://github.com/theovidal2103)

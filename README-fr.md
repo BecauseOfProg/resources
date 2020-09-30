@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://cdn.becauseofprog.fr/v2/sites/becauseofprog.fr/assets/logos/bop.svg" width="200" />
-  <h1>Ressources - BecauseOfProg</h1>
+  <h1>Ressources de la BecauseOfProg</h1>
   <h3>Une liste de toutes sortes de projets menés par la BecauseOfProg.</h3>
 </div>
 
@@ -13,6 +13,8 @@
   - [Gems Ruby](#gems-ruby)
   - [Shards Crystal](#shards-crystal)
 - [⛏ Créations](#-créations)
+
+- [👨‍💻 Nos membres](#-nos-membres)
 
 ## 🌐 Sites Internet
 
@@ -40,6 +42,14 @@
 ## ⛏ Créations
 
 - [Admin dashboard template](https://github.com/BecauseOfProg/admin-dashboard-template) : Un modèle de panel d'administration fait avec VueJS
-- [arduipiano](https://github.com/BecauseOfProg/arduipiano) : Un piano construit avec un Arduino
 - [Boîte à bois](https://github.com/BecauseOfProg/boite-a-bois) : Le robot Discord de la BecauseOfProg
 - [Sorting algorithms](https://github.com/BecauseOfProg/sorting-algorithms) : Plein d'algorithmes de tri en plusieurs langages
+
+## 👨‍💻 Nos membres
+
+Chaque membre de la BecauseOfProg possède ses projets personnels que vous devriez aussi découvrir ! Allez jeter un oeil sur leurs profils GitHub :
+
+- [Gildas GH](https://github.com/Gildas-GH)
+- [Nicolas (Whaxion)](https://github.com/Whaxion)
+- [Noéwen (kernoeb)](https://github.com/kernoeb)
+- [Théo (exybore)](https://github.com/theovidal2103)
